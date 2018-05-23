@@ -1,6 +1,6 @@
 # EasyPlayer-RTMP播放器 #
 
-EasyPlayer-RTMP播放器是一套RTMP专用的播放器，包括有：Windows、Android、iOS三个平台，是由[**紫鲸团队**](http://www.pvale.com "紫鲸云")开发和维护的区别于市面上大部分的通用播放器，EasyPlayer-RTMP系列始于成熟的商业项目，其底层模块[EasyRTMPClient项目](https://github.com/EasyDSS/EasyRTMPClient "EasyRTMPClient")从16年发展至今，上层模块复用[EasyPlayer-RTSP项目](https://github.com/EasyDSS/EasyPlayer-RTSP "EasyPlayer-RTSP")，均是站在巨人肩膀上的产品，目前得到了各行各业(尤其是安防行业)的广泛应用，EasyPlayer-RTMP更加精炼、更加专注，具备非常低的延时，非常高RTMP协议兼容性，编码数据解析等方面，都有非常大的优势，尤其是在有特殊参数/私有自定义字段的情况下，非常容易进行定制和兼容！
+EasyPlayer-RTMP播放器是一套RTMP专用的播放器，包括有：Windows、Android、iOS三个平台，是由[**紫鲸云**](http://www.pvale.com "紫鲸云")开发和维护的区别于市面上大部分的通用播放器，EasyPlayer-RTMP系列始于成熟的商业项目，其底层模块[EasyRTMPClient项目](https://github.com/EasyDSS/EasyRTMPClient "EasyRTMPClient")经过多年迭代发展，上层模块复用[EasyPlayer-RTSP项目](https://github.com/EasyDSS/EasyPlayer-RTSP "EasyPlayer-RTSP")，均是站在巨人肩膀上的产品，目前得到了各行各业(尤其是安防行业)的广泛应用，EasyPlayer-RTMP更加精炼、更加专注，具备非常低的延时，非常高RTMP协议兼容性，编码数据解析等方面，都有非常大的优势，尤其是在有特殊参数/私有自定义字段的情况下，非常容易进行定制和兼容！
 
 > 我们做过比较，EasyPlayer-RTMP各平台（Windows、Android、iOS）相比于同类型的功能的vlc、ffplay等等，其在打开速度、延时控制、兼容性等方面，都要优秀很多，即使是号称了秒开功能的ffmpeg based 播放器（通过设置probsize、AnalysisTime等参数）其打开速度和延时，还是会比EasyPlayer-RTMP要高，EasyPlayer-RTMP底层与上层全部自主开发，自主知识产权，可以说在RTMP播放器领域，目前最可靠、最可控的当属EasyPlayer-RTMP；
 
